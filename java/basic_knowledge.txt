@@ -1,0 +1,2 @@
+1. An anonymous class.
+--An anonymous class is a local class without a name.
