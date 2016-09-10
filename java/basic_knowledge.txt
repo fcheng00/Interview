@@ -1,2 +1,17 @@
 1. An anonymous class.
 --An anonymous class is a local class without a name.
+
+2. Which two method you need to implement for key Object in HashMap?
+--equals() and hashcode()
+
+3. What is immutable object? can you write immutable object?
+-- object cannot be modified once created
+
+4. What is the difference between creating String as new() and literal?
+-- one is in heap and not added in to string pool, the other created in string poll which exists in PermGen area of heap.
+
+5. difference between StringBuffer and StringBuffer in Java?
+
+6. difference between ArrayList and Vector?
+
+7. 
